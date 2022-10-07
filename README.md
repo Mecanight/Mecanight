@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello
 
 I am a beginner enthusiastic Python developer..
 
