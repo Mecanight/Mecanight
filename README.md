@@ -1,6 +1,6 @@
 ### Hello
 
-I am a beginner enthusiastic Python developer..
+I am a beginner enthusiastic Python and Rust developer...
 
 <!--
 **Mecanight/Mecanight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
