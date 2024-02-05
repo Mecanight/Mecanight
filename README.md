@@ -1,7 +1,7 @@
 ### Hello
 
-I'm a beginner developer...not for long
-Enthusiast of Linux, C++, Python, Rust and others related to electronics
+##I'm a beginner developer...not for long
+##Enthusiast of Linux, C++, Python, Rust and others related to electronics
 
 <!--
 **Mecanight/Mecanight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
