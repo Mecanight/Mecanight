@@ -1,9 +1,11 @@
 ### Olá
 
 Sou um desenvolvedor iniciante...não por muito tempo
+
 Entusiasta de Linux, C++, Python, Rust e outros relacionados à eletrônica
 
 Ainda não trabalho na área de desenvolvimento, mas pretendo fazer transição de carreira para tal.
+
 Atualmente estou aprendendo a linguagem Rust e aperfeiçoando conhecimentos em C++, Python e sistemas operacionais Linux.
 
 <!--
