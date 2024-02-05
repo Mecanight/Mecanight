@@ -1,6 +1,6 @@
 ### Olá
 
-Sou um desenvolvedor iniciante...não por muito tempo 😄.
+Sou um desenvolvedor iniciante...por pouco tempo 😄.
 
 Entusiasta de Linux, C++, Python, Rust e outros relacionados à eletrônica.
 
