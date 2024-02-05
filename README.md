@@ -1,7 +1,10 @@
-### Hello
+### Olá
 
-## I'm a beginner developer...not for long
-## Enthusiast of Linux, C++, Python, Rust and others related to electronics
+Sou um desenvolvedor iniciante...não por muito tempo
+Entusiasta de Linux, C++, Python, Rust e outros relacionados à eletrônica
+
+Ainda não trabalho na área de desenvolvimento, mas pretendo fazer transição de carreira para tal.
+Atualmente estou aprendendo a linguagem Rust e aperfeiçoando conhecimentos em C++, Python e sistemas operacionais Linux.
 
 <!--
 **Mecanight/Mecanight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
