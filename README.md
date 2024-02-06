@@ -1,24 +1,13 @@
 ### Olá
 
-Sou um desenvolvedor iniciante...por pouco tempo 😄.
+Sou um desenvolvedor iniciante, mas sempre buscando conhecimento e evolução.
 
 Entusiasta de Linux, C++, Python, Rust e outros relacionados à eletrônica.
 
-Ainda não trabalho na área de desenvolvimento, mas pretendo fazer transição de carreira para tal.
+Ainda não trabalho na área de desenvolvimento, mas estou alinhando pontos para fazer a transição de carreira.
 
-Atualmente estou aprendendo a linguagem Rust e aperfeiçoando conhecimentos em C++, Python e sistemas operacionais Linux.
+Em paralelo com as atividades acadêmicas, do curso de Sistemas de Informação, estou aprendendo a linguagem Rust e aperfeiçoando conhecimentos em C++, Python e sistemas operacionais Linux.
 
-<!--
-**Mecanight/Mecanight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+“O fracasso é uma possibilidade. Se as coisas não estão fracassando, você não está inovando o suficiente.” (Elon Musk)
