@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor iniciante, mas sempre buscando conhecimento e evolução.
 
-Entusiasta de Linux, C++, Python, Rust e outros relacionados à eletrônica.
+Entusiasta de Linux, C++, Python e eletrônica.
 
 Ainda não trabalho na área de desenvolvimento, mas estou alinhando pontos para fazer a transição de carreira.
 
